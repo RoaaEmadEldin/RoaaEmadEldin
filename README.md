@@ -1,12 +1,12 @@
 <h1 align="center">Hi! 👋, My Name is Roaa EmadEldin </h1>
 
-<h3 align="center"> A Junior at the Faculty of Computers and Artificial Intelligence</h4>
+<h3 align="center"> A Senior at the Faculty of Computers and Artificial Intelligence</h4>
 
 I am passionate about Computer Science and Artificial Intelligence.
 
 <br>
 
-*   🧠  I'm currently learning **.Net, React.js**
+*   🧠  I'm currently learning **Flutter, Android**
 *   🌍  I'm based in **Cairo, Egypt**
 *   ✉️  You can contact me at **[roaa20102002@gmail.com](mailto:roaa20102002@gmail.com)**
 
@@ -59,6 +59,21 @@ I am passionate about Computer Science and Artificial Intelligence.
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/android-colored.svg" width="36" height="36" alt="Android" />
+  </a>
 </p>
 
 ### Web Development:
@@ -83,6 +98,9 @@ I am passionate about Computer Science and Artificial Intelligence.
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dotnet-colored.svg" width="36" height="36" alt=".NET Framework" />
   </a>
 </p>
 
