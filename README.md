@@ -6,7 +6,7 @@ I am passionate about Computer Science and Artificial Intelligence.
 
 <br>
 
-*   🧠  I'm currently learning **Flutter, Android**
+*   🧠  I'm currently learning **Flutter, Android Development**
 *   🌍  I'm based in **Cairo, Egypt**
 *   ✉️  You can contact me at **[roaa20102002@gmail.com](mailto:roaa20102002@gmail.com)**
 
@@ -72,7 +72,7 @@ I am passionate about Computer Science and Artificial Intelligence.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
   </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/android-colored.svg" width="36" height="36" alt="Android" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36" height="36" alt="Android" />
   </a>
 </p>
 
@@ -100,7 +100,7 @@ I am passionate about Computer Science and Artificial Intelligence.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dotnet-colored.svg" width="36" height="36" alt=".NET Framework" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET" />
   </a>
 </p>
 
@@ -109,8 +109,10 @@ I am passionate about Computer Science and Artificial Intelligence.
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="SQL" />
+  </a>
 </p>
-        
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RoaaEmadEldin&show_icons=true&locale=en" alt="RoaaEmadEldin" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoaaEmadEldin&show_icons=true&locale=en&layout=compact" alt="RoaaEmadEldin" /></p>
