@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋, My Name is Roaa EmadEldin </h1>
 
-<h3 align="center"> A Senior at the Faculty of Computers and Artificial Intelligence</h4>
+<h3 align="center"> A Fresh Graduate from the Faculty of Computers and Artificial Intelligence</h4>
 
 I am passionate about Computer Science and Artificial Intelligence.
 
